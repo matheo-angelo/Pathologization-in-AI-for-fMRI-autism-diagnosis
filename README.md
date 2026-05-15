@@ -1,0 +1,1 @@
+# Pathologization-in-AI-for-fMRI-autism-diagnosis
